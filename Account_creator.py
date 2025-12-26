@@ -18,7 +18,7 @@ time.sleep(5)
 email = "yashbanait05@gmail.com"
 full_name = "vivan shah"
 username = "vivanshahn123"
-password = "YasH@1#3%2BanaIt"
+password = "password"
 
 
 try:
@@ -89,4 +89,5 @@ finally:
 
 
 time.sleep(5000)
+
 print("Account Created Successfully")
